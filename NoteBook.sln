@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteBook", "NoteBook\NoteBook.csproj", "{06AC9A69-CF7C-4159-A44E-5044F334B771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{7AF123D8-66C0-4CB3-8FE5-28C4812B91E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogic", "TestLogic\TestLogic.csproj", "{9E17C8A7-C1BE-4608-99FF-A8856B48F788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AC9A69-CF7C-4159-A44E-5044F334B771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AC9A69-CF7C-4159-A44E-5044F334B771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AC9A69-CF7C-4159-A44E-5044F334B771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AC9A69-CF7C-4159-A44E-5044F334B771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF123D8-66C0-4CB3-8FE5-28C4812B91E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF123D8-66C0-4CB3-8FE5-28C4812B91E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF123D8-66C0-4CB3-8FE5-28C4812B91E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF123D8-66C0-4CB3-8FE5-28C4812B91E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E17C8A7-C1BE-4608-99FF-A8856B48F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E17C8A7-C1BE-4608-99FF-A8856B48F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E17C8A7-C1BE-4608-99FF-A8856B48F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E17C8A7-C1BE-4608-99FF-A8856B48F788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A894E72E-F90C-4231-AEDE-81DA7CF20636}
+	EndGlobalSection
+EndGlobal
